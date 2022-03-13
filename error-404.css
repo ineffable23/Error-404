@@ -1,0 +1,46 @@
+body{
+    align-items: center;
+}
+
+.page_404{
+    padding: 3px 20px 0 20px ;
+    background: #fff;
+    font-family: 'Arvo', serif;
+}
+
+h1{
+    position: absolute;
+    top: 0%;
+    left: 45%;
+    font-size: 80px;
+    margin: 0;
+    padding: 2px;
+}
+
+ img{
+     padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+        
+}
+
+.constant_box_404{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    margin: 0;
+    text-align: center;
+}
+
+.link_404{
+    color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none !important;
+  }
